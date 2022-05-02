@@ -10,4 +10,5 @@ export const Wrapper = styled.main`
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
+  gap: 20px;
 `;

@@ -7,6 +7,7 @@ export const Container = styled.div `
     padding: 5px;
     background: #fff;
     gap: 10px;
+    width: 45%;
 
 
     img {
