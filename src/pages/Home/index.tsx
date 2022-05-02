@@ -3,10 +3,10 @@ import Header from "../../components/Header";
 
 function Home() {
     return (
-    <div>
-        <Header />
-    </div>
-);
+        <div>
+            <Header />
+        </div>
+    );
 }
 
 export default Home;
